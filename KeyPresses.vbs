@@ -1,0 +1,12 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Sendkeys "{space}"
+WshShell.Sendkeys "{down}"
+WshShell.Sendkeys "{space}"
+WshShell.Sendkeys "{down}"
+WshShell.Sendkeys "{space}"
+WshShell.Sendkeys "{down}"
+WshShell.Sendkeys "{space}"
+WshShell.Sendkeys "{down}"
+WshShell.Sendkeys "{tab}"
+WshShell.Sendkeys "{tab}"
+WshShell.Sendkeys "{enter}"
